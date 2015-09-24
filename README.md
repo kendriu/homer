@@ -1,2 +1,2 @@
 # homer
-Setup of home inevntory
+Setup of home inventory
